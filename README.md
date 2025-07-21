@@ -27,7 +27,7 @@ This web app integrates LangChain’s `create_pandas_dataframe_agent` to set up 
 ## Sample Questions
 
 - “What is this dataset about?”
-- “How many colums this data has?”
+- “How many columns this data has?”
 - “Describe the columns”
 
 ## Run Streamlit:
